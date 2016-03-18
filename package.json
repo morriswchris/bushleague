@@ -1,5 +1,5 @@
 {
-  "name": "sideline",
+  "name": "bushleague",
   "version": "1.0.0",
   "description": "get sports scores from the cli",
   "main": "scores.js",
@@ -22,10 +22,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/morriswchris/sideline.git"
+    "url": "git+https://github.com/morriswchris/bushleague.git"
   },
   "bugs": {
-    "url": "https://github.com/morriswchris/sideline/issues"
+    "url": "https://github.com/morriswchris/bushleague/issues"
   },
-  "homepage": "https://github.com/morriswchris/sideline#readme"
+  "homepage": "https://github.com/morriswchris/bushleague#readme"
 }
