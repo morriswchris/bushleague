@@ -10,7 +10,7 @@
     "sports"
   ],
   "bin": {
-    "sideline": "./bin/sideline"
+    "bushleague": "./bin/bushleague"
   },
   "author": "Chris Morris",
   "license": "MIT",
