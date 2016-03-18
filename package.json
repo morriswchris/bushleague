@@ -1,0 +1,28 @@
+{
+  "name": "scores",
+  "version": "1.0.0",
+  "description": "get sports scores from the cli",
+  "main": "scores.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sports"
+  ],
+  "author": "Chris Morris",
+  "license": "MIT",
+  "dependencies": {
+    "console.table": "^0.4.0",
+    "request": "^2.69.0",
+    "yargs": "^4.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morriswchris/sideline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/morriswchris/sideline/issues"
+  },
+  "homepage": "https://github.com/morriswchris/sideline#readme"
+}
