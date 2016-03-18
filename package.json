@@ -1,5 +1,5 @@
 {
-  "name": "scores",
+  "name": "sideline",
   "version": "1.0.0",
   "description": "get sports scores from the cli",
   "main": "scores.js",
