@@ -19,3 +19,21 @@ Calgary Flames       3 - 1  Colorado Avalanche   14:12 2nd
 Edmonton Oilers      0 - 0  Vancouver Canucks    12:03 2nd
 Anaheim Ducks        2 - 0  Boston Bruins        14:50 1st
 ```
+
+### Supported leagues
+- [x] nfl
+- [x] nba
+- [x] mlb
+- [x] mls
+- [x] nhl
+- [x] wjhc
+- [x] cfl
+- [x] ncaaf
+- [x] ncaab
+- [x] uefa
+- [x] chlg
+- [x] epl
+- [x] bund
+- [x] liga
+- [x] seri
+- [x] fran
