@@ -6,7 +6,7 @@ Ever wanted to check sports scores without leaving the safety of your terminal. 
 ## Installation / Usage
 To install simply run `npm install -g bushleague`. That's it!
 
-To use, simply run `bushleague -l <league identifier>`. Running `bushleague --help` will show you a list of all the supported leagues.
+To use, run `bushleague -l <league identifier>`. Running `bushleague --help` will show you a list of all the supported leagues.
 
 ```shell
 someone at codes in ~/ ➜  bushleague -l nhl

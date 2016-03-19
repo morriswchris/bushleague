@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "sports"
+    "sports", "scores", "leagues", "cli", "nfl", "nba", "mlb", "mls", "nhl",
+    "wjhc", "cfl", "ncaaf",
+    "ncaab", "uefa", "chlg", "epl", "bund", "liga", "seri", "fran"
   ],
   "bin": {
     "bushleague": "./bin/bushleague"
