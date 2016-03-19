@@ -1,15 +1,32 @@
 {
   "name": "bushleague",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "get sports scores from the cli",
   "main": "scores.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "sports", "scores", "leagues", "cli", "nfl", "nba", "mlb", "mls", "nhl",
-    "wjhc", "cfl", "ncaaf",
-    "ncaab", "uefa", "chlg", "epl", "bund", "liga", "seri", "fran"
+    "sports",
+    "scores",
+    "leagues",
+    "cli",
+    "nfl",
+    "nba",
+    "mlb",
+    "mls",
+    "nhl",
+    "wjhc",
+    "cfl",
+    "ncaaf",
+    "ncaab",
+    "uefa",
+    "chlg",
+    "epl",
+    "bund",
+    "liga",
+    "seri",
+    "fran"
   ],
   "bin": {
     "bushleague": "./bin/bushleague"
