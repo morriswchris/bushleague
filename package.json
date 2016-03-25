@@ -36,6 +36,7 @@
   "dependencies": {
     "cli": "^0.11.2",
     "console.table": "^0.4.0",
+    "daemon": "^1.1.0",
     "request": "^2.69.0"
   },
   "devDependencies": {},
