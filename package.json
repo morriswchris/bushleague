@@ -1,8 +1,8 @@
 {
   "name": "bushleague",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Substandard sports tracking on the cli",
-  "main": "scores.js",
+  "main": "lib/bushleague.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
