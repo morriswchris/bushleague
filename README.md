@@ -6,10 +6,10 @@ Ever wanted to check sports scores without leaving the safety of your terminal. 
 ## Installation / Usage
 To install simply run `npm install -g bushleague`. That's it!
 
-To use, run `bushleague -l <league identifier>`. Running `bushleague --help` will show you a list of all the supported leagues.
+To use, run `bushleague <league identifier>`. Running `bushleague --help` will show you a list of all the supported leagues.
 
 ```shell
-someone at codes in ~/ ➜  bushleague -l nhl
+someone at codes in ~/ ➜  bushleague nhl
 HOME                 SCORE  AWAY                 STATUS
 -------------------  -----  -------------------  ---------
 Buffalo Sabres       3 - 1  Ottawa Senators      Final
