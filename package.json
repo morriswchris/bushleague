@@ -1,6 +1,6 @@
 {
   "name": "bushleague",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Substandard sports tracking on the cli",
   "main": "lib/bushleague.js",
   "scripts": {
