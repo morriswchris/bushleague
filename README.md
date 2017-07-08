@@ -1,7 +1,9 @@
-# Bush League
+# BushLeague
 > Substandard sports tracking on the cli
 
 Ever wanted to check sports scores without leaving the safety of your terminal. We'll the struggle is over. Introducing Bush League. Simply pass in the league you wish to get updates for, and like magic your terminal is updated with all the scores of the night.
+
+Bushleague uses the [Tally](https://github.com/morriswchris/tally) library to gather sports scores with streams.
 
 ## Installation / Usage
 To install simply run `npm install -g bushleague`. That's it!
@@ -19,6 +21,8 @@ Calgary Flames       3 - 1  Colorado Avalanche   14:12 2nd
 Edmonton Oilers      0 - 0  Vancouver Canucks    12:03 2nd
 Anaheim Ducks        2 - 0  Boston Bruins        14:50 1st
 ```
+
+
 
 ### Supported leagues
 - [x] nfl

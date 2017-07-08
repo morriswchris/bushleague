@@ -34,10 +34,13 @@
   "author": "Chris Morris",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^2.0.1",
     "cli": "^0.11.2",
+    "columnify": "^1.5.4",
     "commander": "^2.9.0",
-    "console.table": "^0.4.0",
-    "request": "^2.69.0"
+    "log-update": "^2.0.0",
+    "request": "^2.69.0",
+    "tally-rx": "^1.0.1"
   },
   "devDependencies": {},
   "repository": {
